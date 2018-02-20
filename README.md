@@ -1,12 +1,16 @@
-# MakersBnB
+# Makers Academy week 6 challenge - MakersBnB
 
-This project allows users to view, list and book rentals on MakersBnB.
-
-## Getting Started
+Challenge - Build a clone of AirBnB, allowing users to view, list, and book rentable properties
 
 ### Installing
 
-## How to Use
+- clone this repo
+- cd Makers-bnb/api
+- bundle
+- psql
+- CREATE DATABASE "mbnb_development";
+- \q
+- rackup
 
 ## User Stories
 
@@ -62,15 +66,27 @@ I want to receive a confirmation of my booking
 
 ```
 
-Background for our site made by DiegoVainilla: 
+Background for our site made by DiegoVainilla:
 https://diegovainilla.deviantart.com/
-
-## Reflections
 
 ## Authors
 
-Keran Braich
-George Whiting
-Valentina
-Kesha
-Lea
+[Keran Braich](https://github.com/ker-an)
+
+[George Whiting](https://github.com/GeorgeWhiting)
+
+[Valentina](https://github.com/Ciancion)
+
+[Kesha](https://github.com/ikumsh)
+
+[Lea](https://github.com/lea-rsm)
+
+### Screenshots:
+
+![](https://i.imgur.com/iPasRTe.png)
+
+![](https://i.imgur.com/dw9Pyqu.png)
+
+![](https://i.imgur.com/5USQ1uJ.png)
+
+![](https://i.imgur.com/3ZW6DNv.png)
